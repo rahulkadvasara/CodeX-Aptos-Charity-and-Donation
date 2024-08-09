@@ -1,10 +1,10 @@
 # Charity and Donation Traking system using Blockchain
 
 # Team members:
-Rahul Kumar
-Prithwiraj Das
-Gagandeep Singh Shekhawat
-Ajay Prakash
+Rahul Kumar\n
+Prithwiraj Das\n
+Gagandeep Singh Shekhawat\n
+Ajay Prakash\n
 
 # Team name: CodeX
 
