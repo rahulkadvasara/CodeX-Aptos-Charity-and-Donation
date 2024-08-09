@@ -9,12 +9,12 @@
 # Team name: CodeX
 
 # Technologies used in this project:
-Blockchain
+Blockchain,
 Move
 
 # Tools used in this project:
-Aptos
-Welldone extension
+Aptos,
+Welldone extension,
 Remix Ide
 
 # About this project
